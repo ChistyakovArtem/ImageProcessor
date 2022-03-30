@@ -1,6 +1,6 @@
 # ImageProcessor
 
-This is my Image Processor - framework for working with bmp images including **Cropping, GrayScaling, Edge Detection, Gaussian Bluring, Median bluring, Noise cleaning...**
+This is my Image Processor - framework for working with bmp images including **Cropping, GrayScaling, Edge Detection, Gaussian Blurring, Median blurring, Noise cleaning...**
 
 It is written in **pure C++ using OOP paradigm** and such techniques as **abstract classes, virtual methods, multi-inheritance, namespaces and unit-testing**.
 
