@@ -6,4 +6,4 @@ It is written in **pure C++ using OOP paradigm** and such techniques as **abstra
 
 Framework supports reading from terminal and **absolutely fail-safe** including safe fails after getting bad commands, bad parameters (or no parameters) and bad file types.
 
-Framework has strong carcass that allow to easily add new filters and modify olds. Framework is free of UB and memory leakages.  
+Framework has **strong carcass that allow to easily add new filters and modify olds**. Framework is free of UB and memory leakages.  
